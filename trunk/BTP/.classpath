@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="src/Jars/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="src/Jars/org.eclipse.core.contenttype-3.4.100.v20100505-1235.jar"/>
+	<classpathentry kind="lib" path="src/Jars/org.eclipse.core.jobs-3.5.0.v20100515.jar"/>
+	<classpathentry kind="lib" path="src/Jars/org.eclipse.core.resources-3.6.0.v20100526-0737.jar"/>
+	<classpathentry kind="lib" path="src/Jars/org.eclipse.core.runtime-3.6.0.v20100505.jar"/>
+	<classpathentry kind="lib" path="src/Jars/org.eclipse.equinox.common-3.6.0.v20100503.jar"/>
+	<classpathentry kind="lib" path="src/Jars/org.eclipse.equinox.preferences-3.3.0.v20100503.jar"/>
+	<classpathentry kind="lib" path="src/Jars/org.eclipse.jdt.core-3.8.0.v_C18.jar"/>
+	<classpathentry kind="lib" path="src/Jars/org.eclipse.osgi-3.6.0.v20100517.jar"/>
+	<classpathentry kind="lib" path="src/Jars/org.eclipse.text-3.5.100.v20110505-0800.jar"/>
+	<classpathentry kind="lib" path="src/Jars/intt.jar"/>
+	<classpathentry kind="lib" path="src/Jars/lingpipe-4.1.0.jar"/>
+	<classpathentry kind="lib" path="src/Jars/colibri.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
